@@ -1,0 +1,13 @@
+Mouse Name	Stim Type	OF_15min
+Control.1	Control	3948.8
+Control.2	Control	7478.5
+Control.3	Control	3639.7
+Control.4	Control	4460
+Stimx3 +2wks.1	Stimx3.2wks	5771.9
+Stimx3 +2wks.2	Stimx3.2wks	4853.8
+Stimx3 +2wks.3	Stimx3.2wks	5296.6
+Stimx3 +2wks.4	Stimx3.2wks	2084.2
+Stimx10 +2wks.1	Stimx10.2wks	7024
+Stimx10 +2wks.2	Stimx10.2wks	3382.9
+Stimx10 +2wks.3	Stimx10.2wks	5581.4
+Stimx10 +2wks.4	Stimx10.2wks	5532.6
